@@ -1,2 +1,2 @@
-var test = "test"
+var test = "OOOOOOOO"
 document.write(test)
