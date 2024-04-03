@@ -1,2 +1,2 @@
-var test = "OOOOOOOO"
-document.write(test)
+var test = "OOOOOOOO";
+document.write(test);
