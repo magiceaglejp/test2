@@ -1,5 +1,5 @@
-var test = 0;
+var button1 = 0;
 function button(){
-  test + 1;
+  button1 + 1;
 }
-document.getElementById("texttest").innerHTML = test;
+document.getElementById("texttest").innerHTML = button1;
