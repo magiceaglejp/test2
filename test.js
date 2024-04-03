@@ -1,2 +1,2 @@
-var test = "oppai"
+var test = "test"
 document.write(test)
