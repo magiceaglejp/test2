@@ -1,10 +1,12 @@
-<html>
-<head>
-  <title>サルワカ</title>
-  <meta charset="UTF-8">
+<!DOCTYPE html>
+<html lang="ja">
+<head>	
+ <meta charset="utf-8">
+ <title>テスト</title>
+ <meta name="description" content="サイトの概要を記載">
+ <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>ゼロからウェブデザインを勉強しよう！</h1>
-  <p>まずはHTMLについて学びましょう</p>
+<script src="test.js"></script>
 </body>
 </html>
